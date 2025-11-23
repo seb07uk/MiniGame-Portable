@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+ <p align="center"> <img alt="picture" src="https://github.com/seb07uk/MiniGame-Portable/blob/main/Tic-Tac-Toe/screenshot.PNG?raw=true" />
+</div>
+<br>
+
 # <p align="center">Tic-Tac-Toe</p>
 <p align="center">portable</p>
 <br>
