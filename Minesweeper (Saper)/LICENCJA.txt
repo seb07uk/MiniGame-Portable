@@ -1,0 +1,9 @@
+Licencja MIT
+
+Copyright (c) 2025 Sebastian Januchowski
+
+Niniejszym udziela sie kazdej osobie, ktora otrzyma kopie tego oprogramowania i powiazanych plikow dokumentacji (dalej „Oprogramowanie”), bezplatnego pozwolenia na uzywanie Oprogramowania bez ograniczen, w tym bez ograniczen prawa do uzywania, kopiowania, modyfikowania, laczenia, publikowania, rozpowszechniania, sublicencjonowania i/lub sprzedazy kopii Oprogramowania, a takze pozwolenia osobom, ktorym Oprogramowanie zostalo dostarczone, na to samo, z zastrzezeniem nastepujacych warunkow:
+
+Powyzsza informacja o prawach autorskich oraz niniejsze pozwolenie musza byc zawarte we wszystkich kopiach lub istotnych czesciach Oprogramowania.
+
+OPROGRAMOWANIE JEST DOSTARCZANE „TAKIE, JAKIE JEST”, BEZ JAKIEJKOLWIEK GWARANCJI, WYRAŹNEJ LUB DOROZUMIANEJ, W TYM MIEDZY INNYMI GWARANCJI PRZYDATNOSCI HANDLOWEJ, PRZYDATNOSCI DO OKRESLONEGO CELU ORAZ NIENARUSZANIA PRAW. W ZADNYM WYPADKU AUTORZY ANI POSIADACZE PRAW AUTORSKICH NIE PONOSZA ODPOWIEDZIALNOSCI ZA ZADNE ROSZCZENIA, SZKODY LUB INNE ZOBOWIAZANIA, CZY TO W RAMACH UMOWY, CZY DELIKTU, CZY INNEGO TYTULU, WYNIKAJACE Z OPROGRAMOWANIA, JEGO UZYWANIA LUB INNYCH DZIALAN Z NIM ZWIAZANYCH.
