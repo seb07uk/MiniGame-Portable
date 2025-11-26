@@ -1,5 +1,5 @@
 <div style="text-align: center;">
- <p align="center"> <img alt="picture" src="https://github.com/seb07uk/MiniGames-Portable/blob/main/Pac-Man%20the%20Game/graphiks/pic-main.png?raw=true" />
+ <p align="center"> <img alt="picture" src="https://github.com/seb07uk/MiniGames-Portable/blob/main/Pac-Man%20the%20Game/graphics/screenshot.PNG?raw=true" />
 </div>
 <br>
 <p align="center">Pac-Man the Game</p>
